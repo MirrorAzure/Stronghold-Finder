@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+#: main.py:25
+msgid "Stronghold Finder by MirrorAzure"
+msgstr "Искатель Крепости от MirrorAzure"
+
+#: main.py:34
+msgid "Info"
+msgstr "Информация"
+
+#: main.py:53
+msgid "First throw"
+msgstr "Первый бросок"
+
+#: main.py:87 main.py:135
+msgid "Angle:"
+msgstr "Угол:"
+
+#: main.py:103
+msgid "Second throw"
+msgstr "Второй бросок"
+
+#: main.py:149
+msgid "Calculate"
+msgstr "Рассчитать"
+
+#: main.py:215
+msgid ""
+"Lines are parallel.\n"
+"Please enter another point."
+msgstr ""
+"Линии параллельны.\n"
+"Введите другую точку."
+
+#: main.py:218
+msgid ""
+"Estimated stronghold location:\n"
+msgstr ""
+"Предполагаемое расположение крепости:\n"
+
+#: main.py:220
+msgid ""
+"Error occurred.\n"
+"Please fill all forms correctly."
+msgstr ""
+"Произошла ошибка.\n"
+"Проверьте правильность ввода."
+
+#: info.py:6
+msgid ""
+"Welcome to \"Stronghold Finder\"!\n"
+"\n"
+"This is a simple offline program that will help you find a stronghold in Minecraft.\n"
+"\n"
+"The search for a stronghold is based on the triangulation method. Thanks to it, you will spend much less time and resources than when using the classic method."
+msgstr ""
+"Добро пожаловать в \"Искатель Крепости\"!\n"
+"\n"
+"Это простая оффлайн-программа, которая поможет вам найти крепость в игре Minecraft.\n"
+"\n"
+"Поиск крепости реализован методом триангуляции, за счёт чего вы потратите намного меньше времени и ресурсов, чем при классических методах."
+
+#: info.py:12
+msgid ""
+"How to use the program:\n"
+"\n"
+"1. Enter the game and take your eyes of ender;\n"
+"\n"
+"2. Take a position with a good view;\n"
+"\n"
+"3. Use eye of ender and point your cursor on flying eye (it's better to aim to the center);\n"
+"\n"
+"4. Without moving your character or camera, press F3,\n"
+"write X and Z coordinates, and also your horizontal rotation (first number in \"Facing\" row) in coresponding fields of the program;\n"
+"\n"
+"5. Take another position (preferably at a distance of 400-500 blocks from the first) and do steps 2-4 again;\n"
+"\n"
+"6. Press the \"Calculate\" button.\n"
+"\n"
+"7. All done! You\\'re awesome!"
+msgstr ""
+"Как пользоваться программой:\n"
+"\n"
+"1. Зайдите в игру и возьмите предмет \"Око Эндера\";\n"
+"\n"
+"2. Займите удобную позицию, откуда открывается хороший обзор;\n"
+"\n"
+"3. Используйте Око Эндера и наведите курсор на взлетевший глаз (лучше всего навести его прямо в центр глаза);\n"
+"\n"
+"4. Не меняя положение персонажа и камеры, нажмите клавишу F3,\n"
+"запишите координаты X и Z, а также угол поворота (первое число в строке \"Facing\") в соответствующие поля программы;\n"
+"\n"
+"5. Займите другую позицию (желательно на расстоянии 400-500 блоков от первой) и проделайте шаги 2-4 с ней;\n"
+"\n"
+"6. Нажмите кнопку \"Рассчитать\".\n"
+"\n"
+"7. Готово! Вы великолепны!"
+
+#: info.py:30
+msgid ""
+"If you made everything right, the program should display estimated coordinates of stronghold.\n"
+"Because of the error, actual coordinates of stronghold may differ by 100-200 blocks.\n"
+"However, even with an error, finding stronghold wiil be much easier.\n"
+"\n"
+"I made this program at the request of my friend. Hello, Zavergan, if you're reading this.\n"
+"I took on the project to get some practice in building the user interface and internationalizing the app.\n"
+"\n"
+"Good luck to you and all the best!"
+msgstr ""
+"Если вы ввели всё правильно, программа должна вывести предполагаемые координаты крепости.\n"
+"Из-за погрешностей вычислений, настоящие координаты могут отличаться приблизительно на 100-200 блоков.\n"
+"Однако, так найти крепость будет намного проще.\n"
+"\n"
+"Программа была создана по просьбе моего друга. Поэтому привет тебе, Заверган, если ты это читаешь.\n"
+"Я решил взяться за проект, чтобы немного попрактиковаться в создании пользовательского интерфейса и интернационализации приложения.\n"
+"\n"
+"Успехов вам и всего доброго!"
+
+#: info.py:44
+msgid "Info"
+msgstr "Информация"
+

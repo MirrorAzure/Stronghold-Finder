@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+#: main.py:25
+msgid "Stronghold Finder by MirrorAzure"
+msgstr "Stronghold Finder by MirrorAzure"
+
+#: main.py:34
+msgid "Info"
+msgstr "Info"
+
+#: main.py:53
+msgid "First throw"
+msgstr "First throw"
+
+#: main.py:87 main.py:135
+msgid "Angle:"
+msgstr "Angle:"
+
+#: main.py:103
+msgid "Second throw"
+msgstr "Second throw"
+
+#: main.py:149
+msgid "Calculate"
+msgstr "Calculate"
+
+#: main.py:215
+msgid ""
+"Lines are parallel.\n"
+"Please enter another point."
+msgstr ""
+"Lines are parallel.\n"
+"Please enter another point."
+
+#: main.py:218
+msgid ""
+"Estimated stronghold location:\n"
+msgstr ""
+"Estimated stronghold location:\n"
+
+#: main.py:220
+msgid ""
+"Error occurred.\n"
+"Please fill all forms correctly."
+msgstr ""
+"Error occurred.\n"
+"Please fill all forms correctly."
+
+#: info.py:6
+msgid ""
+"Welcome to \"Stronghold Finder\"!\n"
+"\n"
+"This is a simple offline program that will help you find a stronghold in Minecraft.\n"
+"\n"
+"The search for a stronghold is based on the triangulation method. Thanks to it, you will spend much less time and resources than when using the classic method."
+msgstr ""
+"Welcome to \"Stronghold Finder\"!\n"
+"\n"
+"This is a simple offline program that will help you find a stronghold in Minecraft.\n"
+"\n"
+"The search for a stronghold is based on the triangulation method. Thanks to it, you will spend much less time and resources than when using the classic method."
+
+#: info.py:12
+msgid ""
+"How to use the program:\n"
+"\n"
+"1. Enter the game and take your eyes of ender;\n"
+"\n"
+"2. Take a position with a good view;\n"
+"\n"
+"3. Use eye of ender and point your cursor on flying eye (it's better to aim to the center);\n"
+"\n"
+"4. Without moving your character or camera, press F3,\n"
+"write X and Z coordinates, and also your horizontal rotation (first number in \"Facing\" row) in coresponding fields of the program;\n"
+"\n"
+"5. Take another position (preferably at a distance of 400-500 blocks from the first) and do steps 2-4 again;\n"
+"\n"
+"6. Press the \"Calculate\" button.\n"
+"\n"
+"7. All done! You\\'re awesome!"
+msgstr ""
+"How to use the program:\n"
+"\n"
+"1. Enter the game and take your eyes of ender;\n"
+"\n"
+"2. Take a position with a good view;\n"
+"\n"
+"3. Use eye of ender and point your cursor on flying eye (it's better to aim to the center);\n"
+"\n"
+"4. Without moving your character or camera, press F3,\n"
+"write X and Z coordinates, and also your horizontal rotation (first number in \"Facing\" row) in coresponding fields of the program;\n"
+"\n"
+"5. Take another position (preferably at a distance of 400-500 blocks from the first) and do steps 2-4 again;\n"
+"\n"
+"6. Press the \"Calculate\" button.\n"
+"\n"
+"7. All done! You\\'re awesome!"
+
+#: info.py:30
+msgid ""
+"If you made everything right, the program should display estimated coordinates of stronghold.\n"
+"Because of the error, actual coordinates of stronghold may differ by 100-200 blocks.\n"
+"However, even with an error, finding stronghold wiil be much easier.\n"
+"\n"
+"I made this program at the request of my friend. Hello, Zavergan, if you're reading this.\n"
+"I took on the project to get some practice in building the user interface and internationalizing the app.\n"
+"\n"
+"Good luck to you and all the best!"
+msgstr ""
+"If you made everything right, the program should display estimated coordinates of stronghold.\n"
+"Because of the error, actual coordinates of stronghold may differ by 100-200 blocks.\n"
+"However, even with an error, finding stronghold wiil be much easier.\n"
+"\n"
+"I made this program at the request of my friend. Hello, Zavergan, if you're reading this.\n"
+"I took on the project to get some practice in building the user interface and internationalizing the app.\n"
+"\n"
+"Good luck to you and all the best!"
+
+#: info.py:44
+msgid "Info"
+msgstr "Info"
+
