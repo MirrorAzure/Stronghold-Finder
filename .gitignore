@@ -1,2 +1,5 @@
 __pycache__
 main.pot
+build
+dist
+main.spec
